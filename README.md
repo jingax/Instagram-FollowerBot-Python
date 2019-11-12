@@ -4,9 +4,11 @@ This program uses mozilla geckodriver and selenium (Python) to navigate through 
 # Steps for installation
   1. Download and install Mozilla Firefox Web browser
   2. Download gecko driver from https://github.com/mozilla/geckodriver/releases according to your OS and make sure u have compatible firefox version
-  3. Pass your userid and password to FollowBot function in main.py and hashtags to followpeps function
-  4. Run the program and hope your followers increase
-  5. To unfollow people Pass your userid and password to UnFollowBot function in unfollow.py
+  3. Extract the downloaded file and copy the .exe or .tar.gz to location C:\Users\your-pc-name\AppData\Local\Programs\Python\Python37 
+  4. Install selenium by typing pip install selenium in Command Prompt
+  5. Pass your userid and password to FollowBot function in main.py and hashtags to followpeps function
+  6. Run the program and hope your followers increase
+  7. To unfollow people Pass your userid and password to UnFollowBot function in unfollow.py
   
 
 # Warning : The Developer is responsible for any loss of information or banning of account while using this
